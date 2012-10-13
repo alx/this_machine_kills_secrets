@@ -28,7 +28,7 @@ While there are several “intermediate” answers to be found in the puzzle, wi
 * Book website: http://www.thismachinekillssecrets.com/
 * r/cryptography thread: http://www.reddit.com/r/cryptography/comments/111846/this_machine_kills_secrets_book_puzzle/
 * Andy Greenberg twitter: http://twitter.com/a_greenberg
-* G. Mark Hardy: http://www.gmarkhardy.com/
+* G. Mark Hardy: https://twitter.com/g_mark
 
 # Decrypting...
 
